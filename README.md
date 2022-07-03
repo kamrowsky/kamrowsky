@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**kamrowsky/kamrowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Łukasz, a front-end developer based in Gdańsk, Poland 😄
 
-Here are some ideas to get you started:
+👨🏻‍💻 I'm currently a React Developer @ Bank Millennium. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 I am passionate about crafting apps solving the laziness problem
+
+
+
+When I am not working on my projects you can definitely find me chillin' on a yoga mat 🧘🏻‍♂️, rockin' ukulele 🎶 or looking in the stars 🌌.
+
+
+📫 I you want to reach me out visit one of my websites
+- [manuko](https://manuko.dev)
+- [kamrowsky](https://kamrowsky.pl)
+
+
+⚡ Fun, but also terryfying fact: after watching Free Willy as a kid I am terryfied of orcas for some reason! 
