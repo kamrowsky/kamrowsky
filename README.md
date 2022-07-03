@@ -8,7 +8,7 @@ I am Łukasz, a front-end developer based in Gdańsk, Poland 😄
 
 
 
-When I am not working on my projects you can definitely find me chillin' on a yoga mat 🧘🏻‍♂️, rockin' ukulele 🎶 or looking in the stars 🌌.
+When I am not working on my projects you can definitely find me stretching on a yoga mat 🧘🏻‍♂️, trying to rock on ukulele 🎶 or looking into the stars 🌌.
 
 
 📫 I you want to reach me out visit one of my websites
