@@ -8,12 +8,11 @@ I am Łukasz, a front-end developer based in Gdańsk, Poland 😄
 
 
 
-When I am not working on my projects you can definitely find me stretching on a yoga mat 🧘🏻‍♂️, trying to rock on ukulele 🎶 or looking into the stars 🌌.
-
+When I am not working on my projects you can find me stretching on a yoga mat 🧘🏻‍♂️, playing ukulele 🎶 or looking into the stars 🌌.
 
 📫 I you want to reach me out visit one of my websites
 - [manuko](https://manuko.dev)
 - [kamrowsky](https://kamrowsky.pl)
 
 
-⚡ Fun, but also terryfying fact: after watching Free Willy as a kid I am terryfied of orcas for some reason! 
+⚡ Random fact: born on Friday 13th 🍀
