@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Łukasz, a front-end developer based in Gdańsk, Poland 😄
+I am Łukasz, web developer based in Gdańsk, Poland 😄
 
 👨🏻‍💻 I'm currently a React Developer @ Bank Millennium. 
 
