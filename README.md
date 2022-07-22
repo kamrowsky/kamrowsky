@@ -4,7 +4,7 @@ I am Łukasz, web developer based in Gdańsk, Poland 😄
 
 👨🏻‍💻 I'm currently a React Developer @ Bank Millennium. 
 
-🔥 I am passionate about crafting apps solving the laziness problem
+🔥 I am passionate about crafting apps automating everyday tasks.
 
 
 
